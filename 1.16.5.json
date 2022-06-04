@@ -2,23 +2,23 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "961922033426501634",
+    "smallImageText": "BR 서버",
+    "smallImageKey": "seal-circle"
   },
   "servers": [
     {
-      "id": "test-1.16.5",
-      "name": "test (Minecraft 1.16.5)",
-      "description": "test Running Minecraft 1.16.5 (Forge v36.2.35)",
-      "icon": null,
+      "id": "BR",
+      "name": "포켓몬 서버",
+      "description": "버전 : 1.16.5",
+      "icon": "https://www.dropbox.com/s/jjzhtyieyalo59p/%EC%84%9C%EB%B2%84%20%EC%95%84%EC%9D%B4%EC%BD%98.png?dl=1",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "hppokemon.kro.kr",
       "minecraftVersion": "1.16.5",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "포켓몬 서버",
+        "largeImageText": "포켓몬 HP서버",
+        "largeImageKey": "server-prod"
       },
       "mainServer": true,
       "autoconnect": true,
