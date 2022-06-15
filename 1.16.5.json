@@ -353,51 +353,56 @@
         {
           "id": "com.pixelmonmod:pixelmon:9.0.0@jar",
           "name": "Pixelmon Mod",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 389696161,
             "url": "https://www.dropbox.com/s/s58b4zt3bw6hl4t/Pixelmon-1.16.5-9.0.2-universal.jar?dl=1",
-            "MD5": "8d5c385c7cba68f664585381d461cf85"
+            "MD5": "8d5c385c7cba68f664585381d461cf85",
+            "path": "mods/pixelmon.jar"
           }
         },
         {
           "id": "korea:chat:1.16.5@jar",
           "name": "korea chat",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1755294,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/naraechat-1.16.3-0.7.1.jar",
-            "MD5": "e75b886d783090db4d3c7b45c0e25f10"
+            "MD5": "e75b886d783090db4d3c7b45c0e25f10",
+            "path": "mods/narachat.jar"
           }
         },
         {
           "id": "opti:forge:1.16.5@jar",
           "name": "optiforge",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 190100,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/OptiForge-MC1.16.5-0.5.7.jar",
-            "MD5": "0a7120e414c0e0285232ff4430371d13"
+            "MD5": "0a7120e414c0e0285232ff4430371d13",
+            "path": "mods/optiforge.jar"
           }
         },
         {
           "id": "opti:fine:1.16.5@jar",
           "name": "optifine",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 6046996,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4",
+            "path": "mods/optifine.jar"
           }
         },
         {
           "id": "journey:map:1.16.5@jar",
           "name": "journeymap",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 6693584,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/journeymap-1.16.5-5.8.5p4.jar",
-            "MD5": "4fc523fd32648ca66225c6f979d04718"
+            "MD5": "4fc523fd32648ca66225c6f979d04718",
+            "path": "mods/journeymao.jar"
           }
         }
       ]
