@@ -399,6 +399,16 @@
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/journeymap-1.16.5-5.8.5p4.jar",
             "MD5": "4fc523fd32648ca66225c6f979d04718"
           }
+        },
+        {
+          "id": "Mixin:Boot:strap-Mod-1.16.5@jar",
+          "name": "MixinBootstrap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1066151,
+            "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/MixinBootstrap-Mod-1.16.5.jar",
+            "MD5": "cb5f4c6ebd10c4cc1f34caa447f9abd7"
+          }
         }
       ]
     }
