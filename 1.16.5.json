@@ -351,7 +351,7 @@
           ]
         },
         {
-          "id": "pixelmonmod:pixelmon:9.0.0@jar",
+          "id": "com.pixelmonmod:pixelmon:1.16.5@jar",
           "name": "Pixelmon Mod",
           "type": "ForgeMod",
           "artifact": {
@@ -371,7 +371,7 @@
           }
         },
         {
-          "id": "opti:forge:1.16.5@jar",
+          "id": "net.optifine:opti:1.16.2@jar",
           "name": "optiforge",
           "type": "ForgeMod",
           "artifact": {
@@ -381,18 +381,17 @@
           }
         },
         {
-          "id": "opti:fine:1.16.5@jar",
+          "id": "net.optifine:optifine:1.16.2_HD_U_G8@jar",
           "name": "optifine",
           "type": "ForgeMod",
           "artifact": {
             "size": 6046996,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/OptiFine_1.16.5_HD_U_G8.jar",
-            "MD5": "e0717ba6d1674af83036ebc479fc77b4",
-            "path": "mods/OptiFine_1.16.5_HD_U_G8.jar"
+            "MD5": "e0717ba6d1674af83036ebc479fc77b4"
           }
         },
         {
-          "id": "journey:map:1.16.5@jar",
+          "id": "journeymap:journeymap:1.16.5@jar",
           "name": "journeymap",
           "type": "ForgeMod",
           "artifact": {
