@@ -371,7 +371,7 @@
           }
         },
         {
-          "id": "net.optifine:opti:1.16.2@jar",
+          "id": "net.optifine:opti:1.16.5@jar",
           "name": "optiforge",
           "type": "ForgeMod",
           "artifact": {
@@ -381,7 +381,7 @@
           }
         },
         {
-          "id": "net.optifine:optifine:1.16.2_HD_U_G8@jar",
+          "id": "net.optifine:optifine:1.16.5_HD_U_G8@jar",
           "name": "optifine",
           "type": "ForgeMod",
           "artifact": {
