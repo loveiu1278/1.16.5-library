@@ -383,7 +383,7 @@
         {
           "id": "Opti:MixinBootstrap-Mod:1.16.5@jar",
           "name": "MixinBootstrap",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 1066151,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/MixinBootstrap-Mod-1.16.5.jar",
@@ -394,7 +394,7 @@
         {
           "id": "Opti:OptiFine_1.16.5:HD_U_G8@jar",
           "name": "OptiFine_1.16.5_HD_U_G8",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 6046996,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/OptiFine_1.16.5_HD_U_G8.jar",
