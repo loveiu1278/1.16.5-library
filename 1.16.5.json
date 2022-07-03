@@ -381,7 +381,7 @@
           }
         },
         {
-          "id": "MixinBootstrap:Mod:1.16.5@jar",
+          "id": "Opti:MixinBootstrap-Mod:1.16.5@jar",
           "name": "MixinBootstrap",
           "type": "ForgeMod",
           "artifact": {
@@ -391,7 +391,7 @@
           }
         },
         {
-          "id": "OptiFine:1.16.5:HD_U_G8@jar",
+          "id": "Opti:OptiFine_1.16.5:HD_U_G8@jar",
           "name": "OptiFine_1.16.5_HD_U_G8",
           "type": "ForgeMod",
           "artifact": {
