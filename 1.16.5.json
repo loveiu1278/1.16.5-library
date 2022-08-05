@@ -401,6 +401,17 @@
             "MD5": "e0717ba6d1674af83036ebc479fc77b4",
             "path": "mods/OptiFine_1.16.5_HD_U_G8.jar"
           }
+        },
+        {
+          "id": "Resources:pack:1.16.5@zip",
+          "name": "ResourcesPack",
+          "type": "File",
+          "artifact": {
+            "size": 128179458,
+            "url": "https://www.dropbox.com/s/mx3e9g6jzvx2bju/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A91.16.5.zip?dl=1",
+            "MD5": "39544b0d32ac4c83a311fbba46048679",
+            "path": "resourcepacks/BRresourcepacks.zip"
+          }
         }
       ]
     }
