@@ -391,6 +391,16 @@
           }
         },
         {
+          "id": "Armourers:Armourers-Workshop-forge:2.0.0-dev.69@jar",
+          "name": "Armourers Workshop",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2699073,
+            "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/Armourers-Workshop-forge-2.0.0-dev.69.jar",
+            "MD5": "e994955e31f3cd722bdda4226db66822"
+          }
+        },
+        {
           "id": "Opti:MixinBootstrap-Mod:1.16.5@jar",
           "name": "MixinBootstrap",
           "type": "File",
