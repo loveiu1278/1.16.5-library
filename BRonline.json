@@ -432,6 +432,17 @@
             "MD5": "39544b0d32ac4c83a311fbba46048679",
             "path": "resourcepacks/BRresourcepacks.zip"
           }
+        },
+        {
+          "id": "Sildurs:Vibrant:Shaders@jar",
+          "name": "shaderpacks",
+          "type": "File",
+          "artifact": {
+            "size": 133486,
+            "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/shaderpacks/Sildurs_Vibrant_Shaders_v1.27_Medium_1.zip",
+            "MD5": "ba346f42fbcf2c3454ff7d0d115a7eaa",
+            "path": "shaderpacks/Sildurs_Vibrant_Shaders_v1.27_Medium_1.zip"
+          }
         }
       ]
     }
