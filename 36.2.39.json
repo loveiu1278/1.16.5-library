@@ -401,6 +401,26 @@
           }
         },
         {
+          "id": "PackMenu:PackMenu:1.16.5-2.5.0@jar",
+          "name": "PackMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 273927,
+            "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/PackMenu-1.16.5-2.5.0.jar",
+            "MD5": "008f4736ba8fc2bd48c7253b5e77792b"
+          }
+        },
+        {
+          "id": "Placebo:Placebo:1.16.5-4.6.1@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 145933,
+            "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/Placebo-1.16.5-4.6.1.jar",
+            "MD5": "ebf00ea62791def51c779ac0c3e7974c"
+          }
+        },
+        {
           "id": "Opti:MixinBootstrap-Mod:1.16.5@jar",
           "name": "MixinBootstrap",
           "type": "File",
@@ -427,10 +447,10 @@
           "name": "ResourcesPack",
           "type": "File",
           "artifact": {
-            "size": 128179458,
-            "url": "https://www.dropbox.com/s/mx3e9g6jzvx2bju/%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A91.16.5.zip?dl=1",
-            "MD5": "39544b0d32ac4c83a311fbba46048679",
-            "path": "resourcepacks/BRresourcepacks.zip"
+            "size": 111531687,
+            "url": "https://www.dropbox.com/s/z9vcz0r6l0q8c7h/BR%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip?dl=1",
+            "MD5": "f4771559e05131f5dd8d6154eee886da",
+            "path": "resourcepacks/BR리소스팩.zip"
           }
         },
         {
