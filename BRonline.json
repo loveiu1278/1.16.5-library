@@ -28,8 +28,8 @@
           "name": "Minecraft Forge (base jar)",
           "type": "ForgeHosted",
           "artifact": {
-            "size": 212572,
-            "MD5": "ec8b9d481dbb6637ddc45386596e6ff3",
+            "size": 212574,
+            "MD5": "4afee0135f47547182faa2ea88efebac",
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/library/forge-1.16.5-36.2.39.jar"
           },
           "subModules": [
@@ -38,8 +38,8 @@
               "name": "Minecraft Forge (version.json)",
               "type": "VersionManifest",
               "artifact": {
-                "size": 13577,
-                "MD5": "f7f59205bc395e8d3d1ca8afad93e15c",
+                "size": 13900,
+                "MD5": "dcf645dd966b26ccb9ad4d45bce1dd7c",
                 "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/library/1.16.5-forge-36.2.39.json"
               }
             },
@@ -48,8 +48,8 @@
               "name": "Minecraft Forge (universal jar)",
               "type": "Library",
               "artifact": {
-                "size": 2479557,
-                "MD5": "9c6a8f7733b0084faab9d01804f9678f",
+                "size": 2504067,
+                "MD5": "3337e44edf13c5759548623b5866b967",
                 "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/library/forge-1.16.5-36.2.39-universal.jar"
               },
               "subModules": []
@@ -59,8 +59,8 @@
               "name": "Minecraft Forge (client jar)",
               "type": "Library",
               "artifact": {
-                "size": 4214137,
-                "MD5": "8d8990d72f63d109f68fedf74182a3ea",
+                "size": 4216473,
+                "MD5": "253bbbe4aa8a7752615ea759fa178c80",
                 "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/library/forge-1.16.5-36.2.39-client.jar"
               },
               "subModules": []
