@@ -30,7 +30,7 @@
           "artifact": {
             "size": 212572,
             "MD5": "ec8b9d481dbb6637ddc45386596e6ff3",
-            "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/library/forge-1.16.5-36.2.35.jar"
+            "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/library/forge-1.16.5-36.2.39.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 13577,
                 "MD5": "f7f59205bc395e8d3d1ca8afad93e15c",
-                "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/library/1.16.5-forge-36.2.35.json"
+                "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/library/1.16.5-forge-36.2.39.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 2479557,
                 "MD5": "9c6a8f7733b0084faab9d01804f9678f",
-                "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/library/forge-1.16.5-36.2.35-universal.jar"
+                "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/library/forge-1.16.5-36.2.39-universal.jar"
               },
               "subModules": []
             },
@@ -61,7 +61,7 @@
               "artifact": {
                 "size": 4214137,
                 "MD5": "8d8990d72f63d109f68fedf74182a3ea",
-                "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/library/forge-1.16.5-36.2.35-client.jar"
+                "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/library/forge-1.16.5-36.2.39-client.jar"
               },
               "subModules": []
             },
