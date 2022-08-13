@@ -403,21 +403,23 @@
         {
           "id": "PackMenu:PackMenu:1.16.5-2.5.0@jar",
           "name": "PackMenu",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 273927,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/PackMenu-1.16.5-2.5.0.jar",
             "MD5": "008f4736ba8fc2bd48c7253b5e77792b"
+            "path": "mods/PackMenu-1.16.5-2.5.0.jar"
           }
         },
         {
           "id": "Placebo:Placebo:1.16.5-4.6.1@jar",
           "name": "Placebo",
-          "type": "ForgeMod",
+          "type": "File",
           "artifact": {
             "size": 145933,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/Placebo-1.16.5-4.6.1.jar",
             "MD5": "ebf00ea62791def51c779ac0c3e7974c"
+            "path": "mods/Placebo-1.16.5-4.6.1.jar"
           }
         },
         {
