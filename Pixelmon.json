@@ -453,6 +453,16 @@
             "MD5": "ba346f42fbcf2c3454ff7d0d115a7eaa",
             "path": "shaderpacks/Sildurs_Vibrant_Shaders_v1.27_Medium_1.zip"
           }
+        },
+        {
+          "id": "cfm:7.0.0:1.16.5@jar",
+          "name": "MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 133486,
+            "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/cfm-7.0.0pre22-1.16.3.jar",
+            "MD5": "b2a5f7a361279de6bb5f51246ad36484"
+          }
         }
       ]
     }
