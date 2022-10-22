@@ -401,6 +401,17 @@
           }
         },
         {
+          "id": "PackMenu:config:file",
+          "name": "PackMenuCFG",
+          "type": "Flie",
+          "artifact": {
+            "size": 4174,
+            "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/packmenu.cfg",
+            "MD5": "d8d3d9fafea33dde3f9eabd8422e78b1"
+            "path": "config/packmenu.cfg"
+          }
+        },
+        {
           "id": "Placebo:Placebo:1.16.5-4.6.1@jar",
           "name": "Placebo",
           "type": "ForgeMod",
