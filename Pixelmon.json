@@ -391,8 +391,8 @@
           }
         },
         {
-          "id": "BR:Server:info",
-          "name": "BR info",
+          "id": "Check:Server:info",
+          "name": "Check info",
           "type": "File",
           "artifact": {
             "size": 7611,
