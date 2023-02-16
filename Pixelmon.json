@@ -17,7 +17,7 @@
       "minecraftVersion": "1.16.5",
       "discord": {
         "shortId": "포켓몬 서버",
-        "largeImageText": "포켓몬 BR서버",
+        "largeImageText": "Check 서버",
         "largeImageKey": "server-prod"
       },
       "mainServer": true,
@@ -355,9 +355,9 @@
           "name": "Pixelmon Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 384959245,
-            "url": "https://docs.google.com/uc?export=download&id=13_lxU0JMdeQW8NrulkHv5fxbwJOY5ij1&confirm=t",
-            "MD5": "80b9f11c0d83bdfe629b1d43e58ad0cb"
+            "size": 386624389,
+            "url": "https://docs.google.com/uc?export=download&id=1-UdopUr0JFbH0p7bXgTC7Dd01L1Lxn5u&confirm=t",
+            "MD5": "eec6fbcf2de2418f58a5225eaf8a736d"
           }
         },
         {
@@ -406,9 +406,9 @@
           "name": "PackMenu",
           "type": "ForgeMod",
           "artifact": {
-            "size": 646190,
+            "size": 646198,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/PackMenu-1.16.5-2.5.0.jar",
-            "MD5": "e714722d0b4a81987b4f5e464cf543d4"
+            "MD5": "6176b17e8c480d5ae511a396115930b1"
           }
         },
         {
