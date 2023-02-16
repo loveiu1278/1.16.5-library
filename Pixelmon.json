@@ -395,10 +395,10 @@
           "name": "BR info",
           "type": "File",
           "artifact": {
-            "size": 7603,
+            "size": 7611,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/servers.dat",
             "path": "servers.dat",
-            "MD5": "2b44c3de7cd3e705269cb58a2ced70fa"
+            "MD5": "128c684759e91eaabc1be9b7f3a778c5"
           }
         },
         {
