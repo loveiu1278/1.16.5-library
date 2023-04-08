@@ -395,10 +395,10 @@
           "name": "Check info",
           "type": "File",
           "artifact": {
-            "size": 7611,
+            "size": 7604,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/servers.dat",
             "path": "servers.dat",
-            "MD5": "128c684759e91eaabc1be9b7f3a778c5"
+            "MD5": "ea1a68d7d6f24040f1c4f2368726d7b7"
           }
         },
         {
