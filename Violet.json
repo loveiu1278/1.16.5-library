@@ -391,45 +391,14 @@
           }
         },
         {
-          "id": "Check:Server:info",
+          "id": "Violet:Server:info",
           "name": "Check info",
           "type": "File",
           "artifact": {
-            "size": 7604,
+            "size": 7602,
             "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/servers.dat",
             "path": "servers.dat",
-            "MD5": "ea1a68d7d6f24040f1c4f2368726d7b7"
-          }
-        },
-        {
-          "id": "PackMenu:PackMenu:1.16.5-2.5.0@jar",
-          "name": "PackMenu",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 646192,
-            "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/PackMenu-1.16.5-2.5.0.jar",
-            "MD5": "838830e49138b17a08f628de9dffeebd"
-          }
-        },
-        {
-          "id": "PackMenu:config:file",
-          "name": "PackMenuCFG",
-          "type": "Flie",
-          "artifact": {
-            "size": 4174,
-            "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/packmenu.cfg",
-            "MD5": "d8d3d9fafea33dde3f9eabd8422e78b1",
-            "path": "config/packmenu.cfg"
-          }
-        },
-        {
-          "id": "Placebo:Placebo:1.16.5-4.6.1@jar",
-          "name": "Placebo",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 145933,
-            "url": "https://github.com/loveiu1278/1.16.5-library/raw/main/mods/Placebo-1.16.5-4.6.1.jar",
-            "MD5": "ebf00ea62791def51c779ac0c3e7974c"
+            "MD5": "1ff2b3b1edfe165a9b453a0a4c8ebb23"
           }
         },
         {
